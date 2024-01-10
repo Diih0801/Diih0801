@@ -5,21 +5,21 @@
   Tecnologias: Visual Studio Code.
 
 - 📊 Projetos Destacados
-  1.[Nome do Projeto 1]
+-1.[Nome do Projeto 1]
   Descrição: [Breve descrição do projeto]
   Tecnologias Utilizadas: [Liste as tecnologias usadas no projeto]
   Link: [Link para o repositório]
 
-  2.[Nome do Projeto 2]
+ -2.[Nome do Projeto 2]
   Descrição: [Breve descrição do projeto]
   Tecnologias Utilizadas: [Liste as tecnologias usadas no projeto]
   Link: [Link para o repositório]
 
 - 📫 Como entrar em Contato comigo
 - Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
-  Email: diegogoliveira08@gmail.com
-  LinkedIn: [Seu LinkedIn]
-  Instagram: @diegogomes.o
+-Email: diegogoliveira08@gmail.com
+-LinkedIn: [Seu LinkedIn]
+-Instagram: @diegogomes.o
 
 - 👍🏻 Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e contribuições. Espero que você encontre algo interessante aqui. 😊
 
