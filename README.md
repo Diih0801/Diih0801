@@ -5,12 +5,7 @@
   Tecnologias: Visual Studio Code.
 
 - 📊 Projetos Destacados
--1️⃣.[Nome do Projeto 1]
-  Descrição: [Breve descrição do projeto]
-  Tecnologias Utilizadas: [Liste as tecnologias usadas no projeto]
-  Link: [Link para o repositório]
-
- -2️⃣.[Nome do Projeto 2]
+- 1️⃣.[Nome do Projeto 1]
   Descrição: [Breve descrição do projeto]
   Tecnologias Utilizadas: [Liste as tecnologias usadas no projeto]
   Link: [Link para o repositório]
