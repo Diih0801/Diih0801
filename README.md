@@ -12,9 +12,9 @@
 
 - 📫 Como entrar em Contato comigo
 - Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
--Email: diegogoliveira08@gmail.com
--LinkedIn: (https://www.linkedin.com/in/diego-gomes-5a87a1267/?trk=public-profile-join-page)
--Instagram: @diegogomes.o
+- Email: diegogoliveira08@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/diego-gomes-5a87a1267/?trk=public-profile-join-page)
+- Instagram: @diegogomes.o
 
 - 👍🏻 Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e contribuições. Espero que você encontre algo interessante aqui. 😊
 
