@@ -1,8 +1,8 @@
 - 👋 Oi. Meu nome é Diego, um entusiasta da tecnologia e apaixonado por programação. Atuo como Desenvolvedor Python e estou constantemente explorando novas ideias e soluções inovadoras.
 
 - 💻 Habilidades
-  Linguagens de Programação: Python.
-  Tecnologias: Visual Studio Code.
+- Linguagens de Programação: Python.
+- Tecnologias: Visual Studio Code.
 
 - 📊 Projetos Destacados
 - 1️⃣.[Nome do Projeto 1]
